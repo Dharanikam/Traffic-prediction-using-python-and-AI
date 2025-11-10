@@ -90,23 +90,10 @@ Traffic-Prediction/
 * Deployment of a **live traffic dashboard**
 * Use of **reinforcement learning** for adaptive traffic control
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch (`feature-branch-name`)
-3. Commit your changes
-4. Submit a pull request
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
----
 
-Would you like me to make this README **more research-oriented** (for academic submission) or **developer-focused** (for showcasing code and implementation)?
